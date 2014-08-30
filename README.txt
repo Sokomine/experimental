@@ -1,5 +1,6 @@
 
 Procedure for testing:
+
 1. /giveme experimental:inv_move_demo
 2. Place the demo object somewhere (looks like a chest with a ladder)
 3. Right-click the demo-object.
